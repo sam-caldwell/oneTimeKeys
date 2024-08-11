@@ -1,2 +1,2 @@
-github.com/sam-caldwell/genericQueue v1.0.1 h1:NfzijRVKJ5+cHhvET+3Fjy/U3Kx0MDKzfSIcEMBCrI4=
-github.com/sam-caldwell/genericQueue v1.0.1/go.mod h1:cHOg2Lux6h7g4K79Mzq1QCGwPX2jRJMmB58eLW1Adl8=
+github.com/sam-caldwell/expiringQueue v1.0.0 h1:HBCvMfLRSYqNOksdAZfLxinSlDVCrZWKy7BgrwclGjo=
+github.com/sam-caldwell/expiringQueue v1.0.0/go.mod h1:y4yGhuLyd+7MuXyB3hzizyAhomchqQtpk9/mpJGiJLs=
